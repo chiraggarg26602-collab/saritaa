@@ -1,0 +1,6 @@
+{
+  "name": "Saritaa",
+  "description": "A clean, modern apparel business website for Saritaa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
